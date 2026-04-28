@@ -1,0 +1,464 @@
+[
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "28.8 \u00b0C\n23.4 \u00b0C\n27/09/22\nHotspot : \n28.8 \u00b0C\nColdspot : \n23.4 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02380X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n1",
+      "page_number": "1"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "27.4 \u00b0C\n22.4 \u00b0C\n27/09/22\nHotspot : \n27.4 \u00b0C\nColdspot : \n22.4 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02386X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n2",
+      "page_number": "2"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "27 \u00b0C\n22 \u00b0C\n27/09/22\nHotspot : \n27 \u00b0C\nColdspot : \n22 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02395X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n3",
+      "page_number": "3"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.7 \u00b0C\n20.7 \u00b0C\n27/09/22\nHotspot : \n25.7 \u00b0C\nColdspot : \n20.7 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02402X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n4",
+      "page_number": "4"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.5 \u00b0C\n20.5 \u00b0C\n27/09/22\nHotspot : \n25.5 \u00b0C\nColdspot : \n20.5 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02403X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n5",
+      "page_number": "5"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.8 \u00b0C\n20.8 \u00b0C\n27/09/22\nHotspot : \n25.8 \u00b0C\nColdspot : \n20.8 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02404X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n6",
+      "page_number": "6"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.2 \u00b0C\n21.2 \u00b0C\n27/09/22\nHotspot : \n26.2 \u00b0C\nColdspot : \n21.2 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02405X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "7"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.5 \u00b0C\n21.5 \u00b0C\n27/09/22\nHotspot : \n26.5 \u00b0C\nColdspot : \n21.5 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02406X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "8"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.8 \u00b0C\n20.8 \u00b0C\n27/09/22\nHotspot : \n25.8 \u00b0C\nColdspot : \n20.8 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02392X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "9"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "Hotspot : 25.9 \u00b0C",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "Hotspot : 25.9 \u00b0C",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "Coldspot : 20.9 \u00b0C",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "Coldspot : 20.9 \u00b0C",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "Hotspot : 26 \u00b0C",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "Hotspot : 26 \u00b0C",
+      "page_number": "11"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "Coldspot : 21 \u00b0C",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "Coldspot : 21 \u00b0C",
+      "page_number": "11"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "Hotspot : 26.1 \u00b0C",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "Hotspot : 26.1 \u00b0C",
+      "page_number": "12"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "Coldspot : 21.1 \u00b0C",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "Coldspot : 21.1 \u00b0C",
+      "page_number": "12"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.3 \u00b0C\n21.3 \u00b0C\n27/09/22\nHotspot : \n26.3 \u00b0C\nColdspot : \n21.3 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02397X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "13"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.6 \u00b0C\n20.6 \u00b0C\n27/09/22\nHotspot : \n25.6 \u00b0C\nColdspot : \n20.6 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02398X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "14"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.5 \u00b0C\n21.5 \u00b0C\n27/09/22\nHotspot : \n26.5 \u00b0C\nColdspot : \n21.5 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02399X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "15"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.2 \u00b0C\n20.2 \u00b0C\n27/09/22\nHotspot : \n25.2 \u00b0C\nColdspot : \n20.2 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02400X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "16"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.6 \u00b0C\n20.6 \u00b0C\n27/09/22\nHotspot : \n25.6 \u00b0C\nColdspot : \n20.6 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02401X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "17"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "27 \u00b0C\n22 \u00b0C\n27/09/22\nHotspot : \n27 \u00b0C\nColdspot : \n22 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02381X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "18"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.7 \u00b0C\n21.7 \u00b0C\n27/09/22\nHotspot : \n26.7 \u00b0C\nColdspot : \n21.7 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02382X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "19"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.5 \u00b0C\n21.5 \u00b0C\n27/09/22\nHotspot : \n26.5 \u00b0C\nColdspot : \n21.5 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02383X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "20"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "27.3 \u00b0C\n22.3 \u00b0C\n27/09/22\nHotspot : \n27.3 \u00b0C\nColdspot : \n22.3 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02384X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "21"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "27.3 \u00b0C\n22.3 \u00b0C\n27/09/22\nHotspot : \n27.3 \u00b0C\nColdspot : \n22.3 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02385X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n22",
+      "page_number": "22"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.2 \u00b0C\n20.2 \u00b0C\n27/09/22\nHotspot : \n25.2 \u00b0C\nColdspot : \n20.2 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02387X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n23",
+      "page_number": "23"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.1 \u00b0C\n20.1 \u00b0C\n27/09/22\nHotspot : \n25.1 \u00b0C\nColdspot : \n20.1 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02388X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n24",
+      "page_number": "24"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.9 \u00b0C\n20.9 \u00b0C\n27/09/22\nHotspot : \n25.9 \u00b0C\nColdspot : \n20.9 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02389X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n25",
+      "page_number": "25"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.9 \u00b0C\n21.9 \u00b0C\n27/09/22\nHotspot : \n26.9 \u00b0C\nColdspot : \n21.9 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02390X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n26",
+      "page_number": "26"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "25.6 \u00b0C\n20.6 \u00b0C\n27/09/22\nHotspot : \n25.6 \u00b0C\nColdspot : \n20.6 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02391X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772\n27",
+      "page_number": "27"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.9 \u00b0C\n21.9 \u00b0C\n27/09/22\nHotspot : \n26.9 \u00b0C\nColdspot : \n21.9 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02377X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "28"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "26.4 \u00b0C\n21.4 \u00b0C\n27/09/22\nHotspot : \n26.4 \u00b0C\nColdspot : \n21.4 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02378X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "29"
+    }
+  },
+  {
+    "area": "",
+    "sub_area": "",
+    "issue_type": "",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "thermal",
+    "evidence": {
+      "text_excerpt": "27.8 \u00b0C\n22.8 \u00b0C\n27/09/22\nHotspot : \n27.8 \u00b0C\nColdspot : \n22.8 \u00b0C\nEmissivity : \n0.94\nReflected temperature : \n23 \u00b0C\nThermal image : RB02379X.JPG\nDevice : GTC 400 C Professional\nSerial Number : 02700034772",
+      "page_number": "30"
+    }
+  }
+]

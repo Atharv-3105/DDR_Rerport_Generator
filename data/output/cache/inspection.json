@@ -1,0 +1,338 @@
+[
+  {
+    "area": "Hall",
+    "sub_area": "Skirting level",
+    "issue_type": "Dampness",
+    "description": "Dampness",
+    "location_detail": "Negative side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Hall Skirting level Dampness",
+      "page_number": "3"
+    }
+  },
+  {
+    "area": "Common Bathroom",
+    "sub_area": "tile",
+    "issue_type": "hollowness",
+    "description": "hollowness",
+    "location_detail": "Positive side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Common Bathroom tile hollowness",
+      "page_number": "3"
+    }
+  },
+  {
+    "area": "Bedroom",
+    "sub_area": "Skirting level",
+    "issue_type": "Dampness",
+    "description": "Dampness",
+    "location_detail": "Negative side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Bedroom Skirting level Dampness",
+      "page_number": "3"
+    }
+  },
+  {
+    "area": "Common Bathroom",
+    "sub_area": "tile",
+    "issue_type": "hollowness",
+    "description": "",
+    "location_detail": "Positive side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Common Bathroom tile hollowness",
+      "page_number": "4"
+    }
+  },
+  {
+    "area": "Master bedroom",
+    "sub_area": "Skirting level",
+    "issue_type": "Dampness",
+    "description": "",
+    "location_detail": "Negative side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Master bedroom Skirting level Dampness",
+      "page_number": "4"
+    }
+  },
+  {
+    "area": "MB Bathroom",
+    "sub_area": "tile",
+    "issue_type": "hollowness",
+    "description": "",
+    "location_detail": "Positive side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "MB Bathroom tile hollowness",
+      "page_number": "4"
+    }
+  },
+  {
+    "area": "Kitchen",
+    "sub_area": "Skirting level",
+    "issue_type": "Dampness",
+    "description": "",
+    "location_detail": "Negative side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Kitchen Skirting level Dampness",
+      "page_number": "5"
+    }
+  },
+  {
+    "area": "Master bedroom",
+    "sub_area": "wall",
+    "issue_type": "Dampness",
+    "description": "",
+    "location_detail": "Negative side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Master bedroom wall damness",
+      "page_number": "5"
+    }
+  },
+  {
+    "area": "External wall",
+    "sub_area": "crack and Duct",
+    "issue_type": "Issue",
+    "description": "",
+    "location_detail": "Positive side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "External wall crack and Duct Issue",
+      "page_number": "5"
+    }
+  },
+  {
+    "area": "Parking Area",
+    "sub_area": "seepage",
+    "issue_type": "Negative side Description",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Parking Area seepage",
+      "page_number": "5"
+    }
+  },
+  {
+    "area": "Common Bathroom",
+    "sub_area": "tile",
+    "issue_type": "hollowness and plumbing issue",
+    "description": "",
+    "location_detail": "Positive side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Common Bathroom tile hollowness and plumbing issue",
+      "page_number": "6"
+    }
+  },
+  {
+    "area": "Common Bathroom",
+    "sub_area": "Ceiling",
+    "issue_type": "Dampness",
+    "description": "",
+    "location_detail": "Negative side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Common Bathroom Ceiling Dampness",
+      "page_number": "6"
+    }
+  },
+  {
+    "area": "Flat no 203",
+    "sub_area": "tile joint",
+    "issue_type": "open",
+    "description": "",
+    "location_detail": "Positive side",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Flat no 203 tile joint open",
+      "page_number": "6"
+    }
+  },
+  {
+    "area": "Hall of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "dampness",
+    "description": "at the skirting level",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed dampness at the skirting level of Hall of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Common Bathroom of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "gaps",
+    "description": "between the tile joints",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed gaps between the tile joints of Common Bathroom of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Common Bedroom of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "dampness",
+    "description": "at the skirting level",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Master Bedroom of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "dampness",
+    "description": "at the skirting level",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Master Bedroom Bathroom of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "gaps",
+    "description": "between the tile joints",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Kitchen of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "dampness",
+    "description": "at the skirting level",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed dampness at the skirting level of Kitchen of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Master Bedroom of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "dampness & efflorescence",
+    "description": "on the wall surface",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "External wall of building near Master Bedroom of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "cracks",
+    "description": "on the wall",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Parking ceiling below Flat No. 103",
+    "sub_area": "",
+    "issue_type": "leakage",
+    "description": "",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed leakage at the Parking ceiling below Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Common Bathroom of Flat No. 103",
+    "sub_area": "",
+    "issue_type": "plumbing issue & gaps",
+    "description": "between the tile joints",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103",
+      "page_number": "10"
+    }
+  },
+  {
+    "area": "Common Bathroom of Flat No. 203",
+    "sub_area": "",
+    "issue_type": "gap",
+    "description": "between tile joints",
+    "location_detail": "",
+    "severity_hint": "unknown",
+    "possible_cause": "",
+    "source": "inspection",
+    "evidence": {
+      "text_excerpt": "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203",
+      "page_number": "10"
+    }
+  }
+]
